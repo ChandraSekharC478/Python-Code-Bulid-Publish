@@ -42,7 +42,7 @@ sekharchandhu
 <class 'int'>
 ```
 
-### 3.[nonpremitivedatatypes.py](https://github.com/ChandraSekharC478/PythonforDevops/blob/main/variables/nonpremitivedatatypes.py)
+### 3.[nonpremitivedatatypes.py](https://github.com/ChandraSekharC478/PythonforDevops/blob/main/variables/nonprimitivedatatypes.py)
 This script explains non-primitive data types, which are mutable in nature. It includes Lists, Tuples, and Dictionaries.
 
 **Key Concepts:**
