@@ -57,5 +57,5 @@ print("**********************")
 
 # Terinary Operators with Tuple
 num3=7
-result=("odd","even")[num3 %2 ==0]
+result=("odd","even")[num3 %2 ==0] # it will take first Nearest value 
 print(result)
