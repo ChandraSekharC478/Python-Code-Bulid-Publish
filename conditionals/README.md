@@ -2,7 +2,7 @@
 
 This section covers conditional statements in Python, including `if`, `if-else`, `if-elif-else`, and nested conditional structures.
 
-## File: [`if-else.py`](https://github.com/ChandraSekharC478/PythonforDevops/blob/main/conditionalstatements/if-else.py)
+## File: [`if-else.py`](https://github.com/ChandraSekharC478/PythonforDevops/blob/main/conditionals/if-else.py)
 This script demonstrates the use of conditional statements and logical operators in Python.
 
 ## Understanding Conditional Statements
