@@ -1,0 +1,7 @@
+this is an first line we are inserting in the file
+this is an second line we are inserting in the file
+this is an third line we are inserting in the file
+this is an four line we are inserting in the file
+this is an five line we are inserting in the file
+this is an six line we are inserting in the file
+this is an seven line we are inserting in the file

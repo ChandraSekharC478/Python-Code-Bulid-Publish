@@ -1,0 +1,2 @@
+ today is wonderful day to explore the file handeling in python
+ this is the appending content in the file

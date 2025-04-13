@@ -1,0 +1,21 @@
+Name: Laptop
+Brand: HP
+Model: HP Pavilion 15
+Price: 50000
+Color: Silver
+Processor: Intel Core i5
+RAM: 8GB
+Storage: 512GB SSD
+Display: 15.6 inch
+Battery: 4 cell
+Graphics: Intel UHD Graphics
+Weight: 1.75 kg
+Warranty: 1 year
+Operating System: Windows 10 Home
+Ports: USB 3.1, HDMI, Ethernet
+Audio: HP Audio Boost
+Keyboard: Full-size island-style keyboard
+Fingerprint Reader: Yes
+Backlit Keyboard: Yes
+Webcam: HP TrueVision HD Camera
+Bluetooth: Yes
