@@ -11,5 +11,6 @@ def palindromeChecker(string):
     else:
         print("The given word is not Palindrome")
 # Test the function with a sample string
-palindromeChecker("chandhu")  # Output: The given word is Palindrome}
+palindromeChecker("chandhu")  # Output: The given word is not Palindrome
+palindromeChecker("madam") # Output: The given  word is Palindrome 
     
